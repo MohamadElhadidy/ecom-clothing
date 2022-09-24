@@ -7,7 +7,6 @@ const Auth = () =>{
 
      return(
           <>
-          {/* <h2>Sign In Page</h2> */}
           <div className='authentication-container'>
                <SignInForm />
                <SignUpForm />
